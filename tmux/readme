@@ -1,0 +1,4 @@
+The tmux.conf is referred from https://github.com/tsung/config/blob/master/shell/tmux.conf
+
+Please rename tmux.conf to .tmux.conf and put it in home directory.
+
